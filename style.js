@@ -7,7 +7,6 @@ var styles = StyleSheet.create({
     position:'absolute',
     top:1,
     right:1,
-    width:20,
     height:20,
     borderRadius:15,
     alignItems: 'center',
